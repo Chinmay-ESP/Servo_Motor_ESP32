@@ -27,7 +27,7 @@ This repository contains a project to control a servo motor using the ESP32's Mo
 |-------------------|-------------------------------|
 | **VCC**          | External 5V Power Supply      |
 | **GND**          | ESP32 GND and Power GND       |
-| **Control Pin**   | ESP32 GPIO 32    |
+| **Control Pin**   | ESP32 GPIO 23    |
 
 ---
 
